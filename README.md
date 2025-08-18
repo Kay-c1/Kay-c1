@@ -21,5 +21,5 @@
 </div>
 
 <hr>
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 📫 How to reach me:https://www.instagram.com/kri.stian4/
