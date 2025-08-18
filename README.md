@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💬 Ask me about
+📫 How to reach me:https://www.instagram.com/kri.stian4/
